@@ -1,4 +1,4 @@
-export const candyMachineAddress = "0xaae2fdba212b79cac0559a232064e22da1340c1435728bbca0d881a4d84d6361";
+export const candyMachineAddress = "0x3cf18083b2b230562014051a2cd1c264594fc7f876a544f6dddde181ee68f0e4";
 
 export const collectionName = "Test101"; // Case sensitive!
 export const MaxMint = 3
